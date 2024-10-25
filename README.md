@@ -1,1 +1,1 @@
-# jane_street
+# Jane Street Puzzle
